@@ -14,7 +14,7 @@ const DataTable = () => { // a função pode ser declarada assim também
                 </thead>
                 <tbody>
                     <tr>
-                        <td>22/04/2021</td>
+                        <td>3/04/2021</td>
                         <td>Barry Allen</td>
                         <td>34</td>
                         <td>25</td>
